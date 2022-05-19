@@ -19,8 +19,14 @@ Farmers can sell their produce online which can be purchased by wholesalers and 
 
 •	**Operating system –** Windows 10 is used as the operating system as it is
 stable and supports more features and is more user friendly.
+
+
 •	**Database Management System –** DB Browser for SQLite (DB4S) is a high quality, visual, open-source tool to create, design, and edit database files compatible with SQLite.
+
+
 •	**English language**. The queries are easy to understand and to write.
+
+
 •	**Development tools and Programming language** – Python is used to write the whole code and Python Tkinter is used for designing and styling of front end.
 
 ## Tools and Libraries Used
