@@ -29,6 +29,8 @@ stable and supports more features and is more user friendly.
 
 •	**Development tools and Programming language** – Python is used to write the whole code and Python Tkinter is used for designing and styling of front end.
 
+
+
 ## Tools and Libraries Used
 
 **Tools** 
@@ -37,9 +39,12 @@ stable and supports more features and is more user friendly.
 •	DB Browser for SQLite Libraries
 •	Canva- Used to edit images used in the background and on buttons
 
+
+
 **Libraries**
 
 The following python libraries have been used:
+
 •	**tkinter :** Tkinter is the standard GUI (Graphic User Interface) library forPython. Tkinter provides a fast and easy way to create GUI applications.
 
 
