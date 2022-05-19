@@ -1,5 +1,5 @@
-# Fresh-Fields-Farmers-portal
-Fresh Fields - Farmers portal
+# FarmWeb
+Farmers portal
 
 In today’s world, or any item to reach from the farmer to the consumer involves a lot of steps and middlemen which can cause the process to slow down and also cause hoarding of prices where only the farmer and consumer are at a loss.
 Hoarding of the agricultural production leads to a hike in the price of the crop/end product. Hence, there is a need for a platform that will help the authorities keep a track of the trade, and take down any such hoarding practices being performed at any stage.
@@ -11,7 +11,6 @@ Farmers can sell their produce online which can be purchased by wholesalers and 
 • It has a history section which help the farmers keep a track of their uploaded produce and the customer to view the produce he/she has bought.
 • It also helps the farm laborer’s in finding jobs.
 
-The scope of this application currently includes all the cities and districts present in the state of Maharashtra
 
 
 SOFTWARES AND MODULES USED
@@ -30,7 +29,7 @@ TOOLS AND LIBRARIES USED
 
 TOOLS
 
-•	PyCharm IDE is used for writing the code and developing the system.
+•	VS Code is used for writing the code and developing the system.
 •	DB Browser for SQLite Libraries
 •	Canva- Used to edit images used in the background and on buttons
 
